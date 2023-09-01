@@ -3,7 +3,7 @@
 import random # importing random for use
 
 # Print the welcome
-print("\nWelcome to the WORD GUESSER game.\n")
+print("\nWelcome to the FILLQUEST game.\n")
 print("Please Guess the word that fill the given blanks\n")
 
 # random words in list
